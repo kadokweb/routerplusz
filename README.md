@@ -33,13 +33,13 @@ KadokCode é um conjunto de pequenos e otimizados componentes PHP para tarefas c
 Router is available via Composer:
 
 ```bash
-"Kadokcode/router": "^1.0"
+"kadokcode/router": "^1.0"
 ```
 
 or run
 
 ```bash
-composer require Kadokcode/router
+composer require kadokcode/router
 ```
 
 ## Documentation
