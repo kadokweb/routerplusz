@@ -1,0 +1,28 @@
+{
+  "name": "kadokcode/router",
+  "description": "A classic KadokCode Router is easy, fast and extremely uncomplicated. Create and manage your routes in minutes!",
+  "keywords": [
+    "KadokCode",
+    "UpInside",
+    "Router",
+    "Route",
+    "Routes"
+  ],
+  "homepage": "http://www.kadokweb.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Doka B Silva",
+      "email": "kadokwr@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "KadokCode\\Router\\": "src"
+    }
+  }
+}
